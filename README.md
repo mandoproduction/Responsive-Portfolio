@@ -1,1 +1,2 @@
 # Responsive-Portfolio
+Enthusiatic, resourceful, creative, and a current student at University of Pennsylvania Full Stack Web Developer, with an academic background in Healthcare Informatics, and proficient in project management skills. Strong analytical skills, strong collaborative skills, and excellent problem solving skills. I have 3 months hands on training, studying at the University of Pennsylvania at Pennovation, with Triology. My experience working with technology includes CSS3, HTML5, JavaScript, JQuery, AJAX, NodeJs, and JSON.
